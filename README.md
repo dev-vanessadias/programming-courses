@@ -7,6 +7,7 @@ Escola: Alura
 Categoria: Frontend
 
 Curso: HTML & CSS
+Tópico 1: HTML & CSS
 
 1. HTML5 e CSS3 parte1: crie uma página da web
 
@@ -135,4 +136,31 @@ Curso: HTML & CSS
 4.6.4 Próximos passos
 
 5. Box Model e Box Sizing
+5.1 Box model e box sizing
+
+Escola: Alura
+Categoria: Frontend
+
+Curso: HTML & CSS
+Tópico 2:Layouts modernos para Web
+
+1. CSS: Dispondo elementos Flexbox e Grid
+
+1.1 Flexbox
+1.1.1 Apresentação
+1.1.2 O projeto e suas ferramentas
+1.1.3 O flex container
+1.1.4 Justify-content e align-items
+
+1.2 Mais funcionalidades do flexbox
+1.2.1 Terminando o cabeçalho
+1.2.2 O flex-wrap e flex-direction
+1.2.3 Sem medo de usar o flex
+1.2.4 Lançando o desafio
+
+
+
+
+
+
 
