@@ -158,6 +158,41 @@ Tópico 2:Layouts modernos para Web
 1.2.3 Sem medo de usar o flex
 1.2.4 Lançando o desafio
 
+1.3 O que o flex não consegue fazer
+1.3.1 Limitações do Flexbox
+1.3.2 A solução do grid
+1.3.3 Estilização básica do cartão
+1.3.4 Montando o cartão com grid
+
+1.4 Transformando o layout com grid
+1.4.1 Avançando com o grid
+1.4.2 Visualizando o grid
+1.4.3 Terminando o layout da página
+
+1.5 Responsividade com grid
+1.5.1 Quebrando o projeto no desktop
+1.5.2 Adaptando a estrutura para desktop
+1.5.3 Estilizando o cabeçalho com grid
+1.5.4 Criando as colunas da classe principal
+1.5.5 Estilizando o cartão de recentes
+1.5.6 Organizando os elementos com grid-row e grid-column
+
+1.6 Manutenção do código
+1.6.1 Grid areas
+1.6.2 Ajustando detalhes do layout
+1.6.3 Conclusão
+
+1.7 CSS Flexbox
+1.7.1 Distribua elementos de forma responsiva
+
+2. HTML e CSS: praticando HTML/CSS
+
+2.1 Iniciando o projeto
+2.1.1 Apresentação
+2.1.2 A base do HTML
+2.1.3 Começando com CSS
+2.1.4 Inserindo imagens
+
 
 
 
