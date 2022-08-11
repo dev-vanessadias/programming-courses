@@ -193,6 +193,30 @@ Tópico 2:Layouts modernos para Web
 2.1.3 Começando com CSS
 2.1.4 Inserindo imagens
 
+2.2 A dupla HTML e CSS
+2.2.1 Criando um botão
+2.2.2 Grid e continuação
+2.2.3 Lidando com fontes
+
+2.3 Posicionando elementos
+2.3.1 Margins e paddings
+2.3.2 Alinhamentos
+2.3.3 Construindo nova section
+2.3.4 Reutilizando estilos
+
+2.4 Finalizando nossa página
+2.4.1 Flexbox
+2.4.2 O desafio do footer
+2.4.3 Pseudo-classes
+
+2.5 Compartilhando o projeto
+2.5.1 GitHub e repositório
+2.5.2 Github pages
+2.5.3 Deploy na Vercel
+2.5.4 VSCode Web
+2.5.5 Conclusão
+
+
 
 
 
