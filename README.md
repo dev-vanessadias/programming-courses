@@ -216,6 +216,50 @@ Tópico 2:Layouts modernos para Web
 2.5.4 VSCode Web
 2.5.5 Conclusão
 
+3.HTML e CSS: responsividade com mobile-first
+
+3.1 Aplicando a metodologia
+3.1.1 Apresentação
+3.1.2 O mobile-first
+3.1.3 Conhecendo o projeto
+3.1.4 Metadados
+3.1.5 A base do projeto
+3.1.6 DevTools e Reset.css
+
+3.2 Criando Header, flexboX e @import
+3.2.1 Criando Header, flexboc e @import
+3.2.2 Criando o menu hamburguer
+3.2.3 Customizando o menu hamburger
+3.2.4 Importando fontes
+3.2.5 Banner
+3.2.6 Barra de pesquisa
+
+3.3 Integrando o carrossel com swiper JS
+3.3.1 Carrossel com swiperJS
+3.3.2 Cards
+3.3.3 Lista de tópicos
+3.3.4 contato e footer
+
+3.4 Selecionando media queries
+3.4.1 Media queries
+3.4.2 Aumentando o header
+3.4.3 Aumentando o header
+3.4.4 Variações na página
+3.4.5 Um novo footer
+
+3.5 Produzindo CSS no desktop
+3.5.1 Evoluindo o header
+3.5.2 Revisando o flexbox
+3.5.3 Pseudo-classes e combinadores
+
+3.6 Publicando o projeto
+3.6.1 Github pages
+3.6.2 Testando o projeto
+3.6.3 Conclusão
+3.6.4 Vercel
+
+
+
 
 
 
